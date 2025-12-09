@@ -23,3 +23,25 @@ This package publishes the cleaned observations extracted from idsc.gov.eg using
 
 ## Notes
 - Current crawl covers the 48 indicators exposed by the listing endpoint. Only the source/periodicity shown there is included.
+
+## Variable Names (Arabic / English)
+| Column | Arabic | English |
+| --- | --- | --- |
+| indicator_id | معرف المؤشر | Indicator ID |
+| indicator_nameA | اسم المؤشر (ع) | Indicator name (Arabic) |
+| indicator_nameE | Indicator name (E) | Indicator name (English) |
+| period | الفترة | Period (YYYY / YYYY-Q# / YYYY-MM) |
+| frequency | التكرار الزمني | Frequency (A/Q/M) |
+| year | السنة | Year |
+| quarter | الربع | Quarter |
+| month | الشهر | Month |
+| value | القيمة | Value |
+| unitA | وحدة القياس (ع) | Unit (Arabic) |
+| unitE | Unit (E) | Unit (English) |
+| sourceId | معرف المصدر | Source ID |
+| periodicityId | معرف التكرار | Periodicity ID |
+| periodicityA | التكرار (ع) | Periodicity (Arabic) |
+| periodicityE | Periodicity (E) | Periodicity (English) |
+| dimensions | الأبعاد | Dimensions |
+| dataQuality | جودة البيانات | Data quality |
+| changeRate | معدل التغير | Change rate |
