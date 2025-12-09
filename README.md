@@ -1,6 +1,6 @@
 # IDSC Indicator Dataset
 
-This package publishes the cleaned observations extracted from idsc.gov.eg using Playwright-based scraping and consolidation scripts in this repo.
+This package publishes the cleaned observations extracted from idsc.gov.eg (Egypt's Information and Decision Support Center) using Playwright-based scraping.
 
 ## Contents
 - `idsc_observations.csv` — flattened observations with normalized periods and frequencies.
